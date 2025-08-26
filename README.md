@@ -1,5 +1,8 @@
 Private fork for further Lilygo Development
+
 Thanks nickolay for your previous work.
+
+
 2025.08.26 - adding epd_display.h and epd_internals.h from [EPDIY](https://github.com/vroland/epdiy) to the repo to use it with external_components: in ESPHome
 
 This repository contains a Display component for [ESPHome](https://esphome.io/)
