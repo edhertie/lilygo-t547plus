@@ -1,3 +1,7 @@
+Private fork for further Lilygo Development
+Thanks nickolay for your previous work.
+2025.08.26 - adding epd_display.h and epd_internals.h from [EPDIY](https://github.com/vroland/epdiy) to the repo to use it with external_components: in ESPHome
+
 This repository contains a Display component for [ESPHome](https://esphome.io/)
 to support the ESP32-S3 [LILYGO T5 4.7" Plus E-paper display](https://www.lilygo.cc/products/t5-4-7-inch-e-paper-v2-3).
 
